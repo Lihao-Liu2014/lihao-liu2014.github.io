@@ -24,6 +24,10 @@
 
 </div>
 
+<div class="playlist-player" style="margin: 0 0 1.5em;">
+<iframe title="Blasphemies — Spotify playlist" src="https://open.spotify.com/embed/playlist/2QzgMfrw7qq74eOgdDJNJC" width="100%" height="352" style="display: block; height: 352px; aspect-ratio: auto; border-radius: 12px;" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 <p class="playlist-intro">(Link to playlist: <a href="https://open.spotify.com/playlist/2QzgMfrw7qq74eOgdDJNJC?si=y-uBxvfURaaO-Ir08lD5-Q">https://open.spotify.com/playlist/2QzgMfrw7qq74eOgdDJNJC?si=y-uBxvfURaaO-Ir08lD5-Q</a>. Please note that the interpretations of the music below are deliberately framed in relation to “A Cyborg Manifesto”; many other interpretations are of course possible.) </p>
 
 <p>Constructing a playlist on “A Cyborg Manifesto” might seem convenient if one treats the essay simply as ‘postmodernist’, which is itself a recognizable tendency in music. Here, I would like to work with pieces of music that I already know well and that, I hope, offer equally insightful connections to Haraway’s essay.</p>
