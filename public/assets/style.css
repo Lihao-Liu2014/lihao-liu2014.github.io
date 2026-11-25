@@ -9,3 +9,18 @@
 @media(max-width:360px){.site-header{flex-wrap:wrap;gap:4px;padding:17px 0 10px}.site-header nav{width:100%;justify-content:space-between;gap:20px}.site-header nav>a:first-child{display:block}.hero h1{font-size:3.2rem}.paper-art{transform:scale(.72);margin-top:-25px;margin-bottom:-50px}.paper{left:25px}.paper-clip{left:95px}.art-footnote{left:35px}.section-heading{gap:10px}.section-heading h2{font-size:1.5rem}.section-heading>a{font-size:.75rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 @media print{.site-header,.site-footer,.back-link,.article-footer,.post-end,.related-posts,.theme-toggle{display:none}.site-shell{padding:0}.reading-page{max-width:none;padding:0}:root{--paper:#fff;--ink:#000;--muted:#333;--blue:#000;--line:#ccc}.prose{font-size:12pt}.article-header h1{font-size:30pt}.prose a{text-decoration:underline}.prose img{max-height:60vh}.article-header{margin-bottom:20px}}
+
+/* Long-form writings */
+.writing-page .article-header h1{font-size:clamp(2.35rem,5vw,3.65rem);line-height:1.14;letter-spacing:-.035em;text-wrap:balance}
+.writing-page .article-deck{max-width:43rem;font-size:1.15rem;line-height:1.7}
+.writing-page .manuscript-context{display:flex;flex-wrap:wrap;gap:.3rem 1.2rem;font-family:Arial,sans-serif;font-size:.83rem;line-height:1.65;color:var(--muted);margin:0 0 2rem}
+.writing-page .manuscript-context p{margin:0}
+.writing-page .playlist-intro{font-size:1rem;line-height:1.8;color:var(--muted);margin-bottom:2rem}
+.writing-page .prose h2{font-size:1.85rem;font-weight:400;margin-top:2.6em;margin-bottom:1.1em;scroll-margin-top:2rem}
+.writing-page .prose h3{font-size:1.3rem;font-weight:400;line-height:1.6;margin-top:2.2em;margin-bottom:1em;text-wrap:pretty}
+.writing-page .prose h3 em{font-weight:400}
+.writing-page .works-cited{margin-top:3.5rem;padding-top:1rem;border-top:1px solid var(--line)}
+.writing-page .works-cited h2{margin-top:1rem}
+.writing-page .works-cited p{font-size:1rem;line-height:1.8;padding-left:1.5rem;text-indent:-1.5rem;margin-bottom:1.2rem}
+@media(max-width:760px){.writing-page .article-header h1{font-size:2.5rem}.writing-page .article-deck{font-size:1.05rem}.writing-page .prose h2{font-size:1.65rem}.writing-page .prose h3{font-size:1.2rem}.writing-page .manuscript-context{display:block}.writing-page .works-cited p{font-size:.98rem}}
+@media print{.writing-page .article-header h1{font-size:28pt}.writing-page .prose h2{break-after:avoid}.writing-page .prose h3{break-after:avoid}.writing-page .works-cited p{font-size:11pt}.writing-page .manuscript-context{font-size:9pt}}

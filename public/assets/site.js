@@ -25,8 +25,9 @@ if (archive) {
   const search = document.querySelector('#archive-search');
   const tag = document.querySelector('#tag-filter');
   const params = new URLSearchParams(location.search);
-  const kinds = ['All', 'Essay', 'Note', 'Project'];
-  let selectedKind = kinds.includes(params.get('kind')) ? params.get('kind') : 'All';
+  const kinds = ['All', 'Writings', 'Note', 'Project'];
+  const requestedKind = params.get('kind') === 'Essay' ? 'Writings' : params.get('kind');
+  let selectedKind = kinds.includes(requestedKind) ? requestedKind : 'All';
   search.value = params.get('q') || '';
   if ([...tag.options].some(o => o.value === params.get('tag'))) tag.value = params.get('tag');
   let posts = [];
