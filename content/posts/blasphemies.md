@@ -38,11 +38,19 @@
 
 <h3><em>“DEUTSCHLAND” – Rammstein</em><em>,</em><em> 2019</em></h3>
 
+<div class="song-player" style="margin: 0 0 1.5em;">
+<iframe title="Deutschland — Rammstein — Spotify player" src="https://open.spotify.com/embed/track/1T8IRUJBga0JXioJZvxjBR" width="100%" height="152" style="display: block; height: 152px; aspect-ratio: auto; border-radius: 12px;" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 <p>This techno-metal song is featured in the band’s widely viewed and artistically ambitious, if somewhat disturbing, music video. The video seems to be a montage portraying significant moments in German history; yet never does it present a coherent account of the nation’s history or identity. While, in much banal German pop of the present time, the ‘nation’ is often the unnoticed framework for love, happiness, and social life, “DEUTSCHLAND” unsettles this fantasy and exposes its constructed character (Espinoza Garrido et al. 191–193). Like Haraway’s cyborg, the song rejects myths of “original unity” (Haraway 8). In nationalist tradition, Germania is a maternal allegory of the German people, their unity, and their strength; but in the video, played by the Black German actress Ruby Commey, Germania appears across eras, forms, and positions: a warrior in a war against the Romans, an object of consumption, a half-blind Nazi officer in a concentration camp, or a medieval queen in a coffin sent into space. Germania is no longer the natural maternal body grounding national unity; her image is mutable, constructed, and reconfigured throughout history. This history, then, is not a genealogy but rather a montage.</p>
 
 <p>The German people can thus be read as Haraway’s cyborgs, who have “no origin story in the Western sense” (8). The opening frames the audience’s encounter with the German past as an excavation in search of an imaginary Arkhē, seemingly driven by a mal d’archive: the recurrent red laser beams seem to represent a ‘roter Faden’ (a German expression for a narrative’s guiding thread). As the video unfolds, the audience realize the impossibility of this innocent, organic origin; as Haraway puts it, they realize being the “illegitimate offspring of militarism and patriarchal capitalism, not to mention state socialism” (Haraway 9). As cyborgs they now “are wary of holism, but needy for connection” (10), hence their simultaneous feelings of love and hate: “mein Herz in Flammen / will dich lieben und verdammen”. The video ends with a funeral scene for Germania—the death of the pure symbol of origin—where the astronauts escort her coffin into space. The astronauts represent Haraway’s cyborg as “man in space” (8), a figure no longer grounded in a myth of organic origins. Germania, in her historical form, is sealed in a futuristic, technologized coffin and sent beyond Earth rather than buried in her native soil. This resonates with Haraway’s rejection of the Garden of Eden: the cyborg “cannot dream of returning to dust” (9).</p>
 
 <h3><em>“</em><em>Kor e alle helter hen</em><em>” – </em><em>Jan Eggum, 1992</em></h3>
+
+<div class="song-player" style="margin: 0 0 1.5em;">
+<iframe title="Kor e alle helter hen? — Jan Eggum — Spotify player" src="https://open.spotify.com/embed/track/1oHhyJpf1YE0Yx4fXhudcy" width="100%" height="152" style="display: block; height: 152px; aspect-ratio: auto; border-radius: 12px;" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
 <p>I believe that this song, which presents a montage of cultural memories in post-WWII Norway, closely relates to Haraway’s anti-vanguard, anti-heroic politics. </p>
 
@@ -54,6 +62,10 @@
 
 <h3><em>“</em><em>Construção</em><em>” – </em><em>Chico Buarque</em><em>, </em><em>1971</em></h3>
 
+<div class="song-player" style="margin: 0 0 1.5em;">
+<iframe title="Construção — Chico Buarque — Spotify player" src="https://open.spotify.com/embed/track/3FIuBxOxuQ6kYy8JO0gq2a" width="100%" height="152" style="display: block; height: 152px; aspect-ratio: auto; border-radius: 12px;" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 <p>This genre-blending song by the Brazilian bossa nova singer-songwriter Chico Buarque is often praised for its ingenious lyrics and the way their structure shapes the musical composition. It tells the story of a day in a construction worker’s life, from his departure from home in the morning to his fatal fall at work. The same story is repeated three times, but with a twist: the final words of the lines, all trisyllabic and stressed on the first syllable, are interchanged across stanzas, making the narrative increasingly grotesque and disjointed with each repetition.</p>
 
 <p>The song’s formal construction is itself directly central to its meaning. The rearrangement of the final words resembles a ‘construção’ assembled from bricks (‘tijolo com tijolo’). Note that between the first and second stanzas, the description of ‘desenho’ changes from ‘mágico’ to ‘lógico’: in other words, from organic wholeness toward system logic. Like the narrative structure of this song, social reality and experiences are constructed in discourse and code rather than naturally expressed.</p>
@@ -63,6 +75,10 @@
 <p>This also resonates with Haraway’s account of late-capitalist systems as “informatics of domination” (30). In the later stanzas, the images of the household and the workplace, the public and the private, and the organic and the machine are all shuffled and blended, suggesting their reorganization into networks, where “no objects, spaces, or bodies are sacred in themselves; any component can be interfaced with any other…” (32).</p>
 
 <h3><em>“</em><em>La complainte de la serveuse automate</em><em>” – </em><em>Maurane, written by Michel Berger / Luc Plamondon, from Starmania </em><em>(</em><em>1988 version</em><em>)</em></h3>
+
+<div class="song-player" style="margin: 0 0 1.5em;">
+<iframe title="La complainte de la serveuse automate — Maurane, Starmania — Spotify player" src="https://open.spotify.com/embed/track/5QypIqrf5wb7DENxrq0UWR" width="100%" height="152" style="display: block; height: 152px; aspect-ratio: auto; border-radius: 12px;" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
 <p>If Buarque’s song implicitly evokes the “informatics of domination” (30), this solo number from the French rock opera <em>Starmania</em><em> </em>featuring Marie-Jeanne, a “serveuse automate”, explicitly resonates with Haraway’s portrayal of women in the “integrated circuit” (37). The setting too is explicitly Harawayan: the dystopian futuristic city of Monopolis is a (literally) post-national “polymorphous, information system” (28), where society is organized around media, capital, security, and technological power. In Monopolis we see a realization of the “erosion of the welfare state” (48), a polity technologically spectacular but culturally and morally impoverished. In the musical’s staging of public events as spectacle, we also see the “eradication of ‘public life’” (42): political campaigns and rebellions are mediated through television; Monopolis is full of visibility but devoid of any genuine civic life. As Haraway argues, a direct result of this decentralized society with intensified control by communication technology is the dispersion of labor, specifically in a kind of “homework economy” (38). Within this economy, the worker is “feminized”, or “made extremely vulnerable; able to be disassembled, reassembled… seen less as workers than as servers…” (38), thus a <em>serveuse</em>. According to Larousse, <em>a</em><em>utomate</em> in French possesses the dual meanings of a) a machine capable of imitating living bodies, and b) a person who acts like a machine (“Automate”). The mechanical routines of service work (the latter meaning) seem to reassemble her identity as an automaton (the former). This is the force of “ma vie ne me ressemble pas”.</p>
 
