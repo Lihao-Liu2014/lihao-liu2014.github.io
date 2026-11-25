@@ -1,7 +1,7 @@
 ---
 {
   "title": "Description of Playlist “Blasphemies”",
-  "date": "2026-11-25",
+  "date": "2026-04-30",
   "kind": "Writings",
   "author": "Lihao Liu",
   "tags": [

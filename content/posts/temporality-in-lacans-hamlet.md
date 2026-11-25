@@ -1,7 +1,7 @@
 ---
 {
   "title": "On Temporality in Lacan’s Hamlet: A Comparative Reading",
-  "date": "2026-11-25",
+  "date": "2026-02-21",
   "kind": "Writings",
   "author": "Lihao Liu",
   "tags": [
