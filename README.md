@@ -16,7 +16,7 @@ The text between the `---` lines is JSON. Keep its double quotes, commas, and br
 {
   "title": "My new post",
   "date": "2026-11-24",
-  "kind": "Essay",
+  "kind": "Writings",
   "tags": ["Reading", "Ideas"],
   "summary": "One sentence introducing this piece.",
   "published": true
@@ -32,7 +32,7 @@ Another paragraph.
 > A short quotation.
 ```
 
-Kinds: `Essay`, `Note`, or `Project`. Entries are sorted by date. Set `published` to `false` to exclude an entry from the built site, RSS, and search. Dates do not schedule publishing: a future-dated entry with `published: true` is published on the next build.
+Kinds: `Writings`, `Note`, or `Project`. Entries are sorted by date. Set `published` to `false` to exclude an entry from the built site, RSS, and search. Dates do not schedule publishing: a future-dated entry with `published: true` is published on the next build.
 
 **This is a public repository.** All committed source files and previous revisions are publicly readable, even when an entry is excluded from the website. Keep private drafts, personal information, passwords, and API keys outside the repository.
 
