@@ -6,9 +6,10 @@
   "author": "Lihao Liu",
   "tags": [
     "Music",
-    "Donna Haraway"
+    "Donna Haraway",
+    "Cyborg"
   ],
-  "summary": "—Reflective Summary of Donna Haraway, “A Cyborg Manifesto”",
+  "summary": "—Reflection on Donna Haraway, “A Cyborg Manifesto”",
   "published": true
 }
 ---
@@ -25,7 +26,7 @@
 
 <p class="playlist-intro">(Link to playlist: <a href="https://open.spotify.com/playlist/2QzgMfrw7qq74eOgdDJNJC?si=y-uBxvfURaaO-Ir08lD5-Q">https://open.spotify.com/playlist/2QzgMfrw7qq74eOgdDJNJC?si=y-uBxvfURaaO-Ir08lD5-Q</a>. Please note that the interpretations of the music below are deliberately framed in relation to “A Cyborg Manifesto”; many other interpretations are of course possible.) </p>
 
-<p>Constructing a playlist on “A Cyborg Manifesto” might seem convenient if one treats the essay simply as ‘postmodernist’, which is itself a recognizable tendency in music. However, given the time constraints, I would like to work with pieces of music that I already know well and that, I hope, offer equally insightful connections to Haraway’s essay.</p>
+<p>Constructing a playlist on “A Cyborg Manifesto” might seem convenient if one treats the essay simply as ‘postmodernist’, which is itself a recognizable tendency in music. Here, I would like to work with pieces of music that I already know well and that, I hope, offer equally insightful connections to Haraway’s essay.</p>
 
 <p>This playlist, “Blasphemies”, owes its title to Haraway’s claim that cyborg politics is as faithful as blasphemy (Haraway 5): it denies origin myths but does not discard the traditions of socialist feminism (that is, it is not apostate). The four songs in this playlist all enact, in one way or another, the blasphemies that Haraway theorizes in her essay.</p>
 
@@ -62,8 +63,6 @@
 <p>If Buarque’s song implicitly evokes the “informatics of domination” (30), this solo number from the French rock opera <em>Starmania</em><em> </em>featuring Marie-Jeanne, a “serveuse automate”, explicitly resonates with Haraway’s portrayal of women in the “integrated circuit” (37). The setting too is explicitly Harawayan: the dystopian futuristic city of Monopolis is a (literally) post-national “polymorphous, information system” (28), where society is organized around media, capital, security, and technological power. In Monopolis we see a realization of the “erosion of the welfare state” (48), a polity technologically spectacular but culturally and morally impoverished. In the musical’s staging of public events as spectacle, we also see the “eradication of ‘public life’” (42): political campaigns and rebellions are mediated through television; Monopolis is full of visibility but devoid of any genuine civic life. As Haraway argues, a direct result of this decentralized society with intensified control by communication technology is the dispersion of labor, specifically in a kind of “homework economy” (38). Within this economy, the worker is “feminized”, or “made extremely vulnerable; able to be disassembled, reassembled… seen less as workers than as servers…” (38), thus a <em>serveuse</em>. According to Larousse, <em>a</em><em>utomate</em> in French possesses the dual meanings of a) a machine capable of imitating living bodies, and b) a person who acts like a machine (“Automate”). The mechanical routines of service work (the latter meaning) seem to reassemble her identity as an automaton (the former). This is the force of “ma vie ne me ressemble pas”.</p>
 
 <p>However, her “complainte” marks a different response from Haraway’s to the late-capitalist condition. Haraway argues for a new socialist-feminist politics that embraces the cyborg condition and contests domination from within technological and social networks, finding “pleasure in the confusion of boundaries” (7). Yet Marie-Jeanne’s dream of “cultiver ses tomates / au soleil” is deliberately anti-cybernetic: to be a worker rather than a server, sunlight in place of neon light, and garden and soil in place of the underground café. It is a pastoral escape and a return to an imagined organic wholeness, a longing that Haraway’s cyborg politics calls into question.</p>
-
-<p>Across these four songs, this playlist follows the movement of Haraway’s “A Cyborg Manifesto”, from the collapse of innocent origins and heroic myths to the laboring bodies of late capitalism.</p>
 
 <section class="works-cited" aria-labelledby="works-cited-title">
 
