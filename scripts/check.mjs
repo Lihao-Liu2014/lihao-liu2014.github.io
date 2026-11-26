@@ -20,8 +20,8 @@ for(const file of files.filter(f=>f.endsWith('.html'))){
     if(!exists)errors.push(`${file}: broken local link ${target}`);
   }
 }
-const index=JSON.parse(fs.readFileSync(path.join(dist,'search.json'),'utf8'));
-for(const p of index){if(!fs.existsSync(path.join(dist,'posts',p.slug,'index.html')))errors.push(`Search links to missing post ${p.slug}`);}
+const index=['search.json','projects/search.json'].flatMap(file=>JSON.parse(fs.readFileSync(path.join(dist,file),'utf8')));
+for(const p of index){if(!fs.existsSync(path.join(dist,p.url.slice(base.length),'index.html')))errors.push(`Search links to missing post ${p.slug}`);}
 const feed=fs.readFileSync(path.join(dist,'feed.xml'),'utf8');
 if((feed.match(/<item>/g)||[]).length!==index.length)errors.push('RSS count does not match published entries.');
 if(files.some(f=>f.includes('node_modules')||f.endsWith('.md')||f.endsWith('.env')))errors.push('Source or private files leaked into dist.');
