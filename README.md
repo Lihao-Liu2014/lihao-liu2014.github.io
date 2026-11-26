@@ -1,4 +1,4 @@
-# Commonplace
+# THE RASCAHOUSE
 
 A personal writing archive for GitHub Pages. Responsive layouts, a searchable archive, topic filters, light/dark themes, RSS, and support for images, audio, and video. No analytics, remote fonts, or external scripts are loaded by the starter.
 
@@ -32,7 +32,7 @@ Another paragraph.
 > A short quotation.
 ```
 
-Kinds: `Writings`, `Note`, or `Project`. Entries are sorted by date. Set `published` to `false` to exclude an entry from the built site, RSS, and search. Dates do not schedule publishing: a future-dated entry with `published: true` is published on the next build.
+Use `"kind": "Writings"` for the Household or `"kind": "Project"` for the separate Projects section. Both use `content/posts`, but publish into their own section, search index, and detail URLs. These kinds are not shown as labels on the site. Entries are sorted by date. Set `published` to `false` to exclude an entry from the built site, RSS, and search. Dates do not schedule publishing: a future-dated entry with `published: true` is published on the next build.
 
 **This is a public repository.** All committed source files and previous revisions are publicly readable, even when an entry is excluded from the website. Keep private drafts, personal information, passwords, and API keys outside the repository.
 
@@ -61,7 +61,7 @@ If the site is deployed below a repository path rather than at the account root,
 
 Edit `site.json` to change the title, description, introductory copy, About page, optional author credit, public contact email, and social links. An empty author or email leaves it out of the site.
 
-Edit `public/assets/style.css` for colors, fonts, and layouts. Posts contain your writing; the shared template lives in `scripts/build.mjs`. The initial entry, **A beginning**, is a starter site note and may be edited or deleted.
+Edit `public/assets/style.css` for colors, fonts, and layouts. Posts contain your writing; the shared template lives in `scripts/build.mjs`.
 
 ## Run locally
 
